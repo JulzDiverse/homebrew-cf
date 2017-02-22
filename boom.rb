@@ -9,7 +9,7 @@ class Boom < Formula
   sha256 "70f723af572fd57850a867d25bc3e3e4b774404f12adbc74f13a9b380bb984ac"
 
   def install
-    bin.install boom
+    bin.install "boom"
   end
 
 end
