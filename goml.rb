@@ -9,6 +9,7 @@ class Goml < Formula
   sha256 "b6653d1c05a2254b3d1ab6146211227c669194b75d4ab91baa81a3ef979b8929"
 
   def install
+    mv bin/"goml-darwin-amd64", bin/"goml"
     bin.install "goml"
   end
 
