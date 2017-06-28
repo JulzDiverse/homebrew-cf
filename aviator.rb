@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class Goml < Formula
+class Aviator < Formula
   desc ""
   homepage ""
   url "https://github.com/JulzDiverse/aviator/releases/download/v0.1.0/aviator-darwin-amd64"
