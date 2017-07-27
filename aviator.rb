@@ -6,7 +6,7 @@ class Aviator < Formula
   desc ""
   homepage ""
   url "https://github.com/JulzDiverse/aviator/releases/download/v0.5.0/aviator-darwin-amd64"
-  sha256 "7f65d8602a9c14a19f935cfba44bbbfd617050b32e26d7daf48c398db928da64"
+  sha256 "2b36669a90b7bfb3721aaa38f518653575b178c3d6eddc8ae26dbdd42616584b"
   version "v0.5.0"
   
   def install
