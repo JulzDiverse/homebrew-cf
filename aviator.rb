@@ -5,9 +5,9 @@
 class Aviator < Formula
   desc ""
   homepage ""
-  url "https://github.com/JulzDiverse/aviator/releases/download/v0.11.0/aviator-darwin-amd64"
-  sha256 "a85601c6eea1e10f87e4cae2d47b152135c2fbbcecdb3e34bd5f981643064a0f"
-  version "v0.11.0"
+  url "https://github.com/JulzDiverse/aviator/releases/download/v0.12.0/aviator-darwin-amd64"
+  sha256 "865cff2a73569cc293a05ebe0e75a1d756a640c74b0470b46216990ed6815e30"
+  version "v0.12.0"
   
   def install
     FileUtils.mv("aviator-darwin-amd64", "aviator")
