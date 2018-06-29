@@ -5,9 +5,9 @@
 class Resc < Formula
   desc ""
   homepage ""
-  url "https://github.com/JulzDiverse/resc/releases/download/v0.1.0/resc-darwin-amd64"
-  sha256 "f63e36746286a8b363f376055bd77b5f44a7cbac80d85fc1ac337d3c321a7654"
-  version "v0.1.0"
+  url "https://github.com/JulzDiverse/resc/releases/download/v0.2.0/resc-darwin-amd64"
+  sha256 "afd0b86d2365b3dbce4ca0d1e9b4207dc58c231544602b2a305db78fc9c50295"
+  version "v0.2.0"
   
   def install
     FileUtils.mv("resc-darwin-amd64", "resc")
