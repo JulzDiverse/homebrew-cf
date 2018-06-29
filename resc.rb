@@ -6,7 +6,7 @@ class Resc < Formula
   desc ""
   homepage ""
   url "https://github.com/JulzDiverse/resc/releases/download/v0.1.0/resc-darwin-amd64"
-  sha256 "8bf33208bf6d420e00f9db52cc04489c302a4eb08da8eb759cb0971e6b079fb5"
+  sha256 "f63e36746286a8b363f376055bd77b5f44a7cbac80d85fc1ac337d3c321a7654"
   version "v0.1.0"
   
   def install
