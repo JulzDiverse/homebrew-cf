@@ -6,7 +6,7 @@ class Goml < Formula
   desc ""
   homepage ""
   url "https://github.com/JulzDiverse/goml/releases/download/v0.5.0/goml-darwin-amd64"
-  sha256 "d11186a274336dbfa7b0588f1f47a005fb139cc8f9d696590b62b99004545789"
+  sha256 "b97552a980b8ca98587d166895e7e4ed28ed74c0ad7dea617fc005e1e15ecd34"
   version "v0.5.0"
   
   def install
