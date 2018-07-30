@@ -5,9 +5,9 @@
 class Goml < Formula
   desc ""
   homepage ""
-  url "https://github.com/JulzDiverse/goml/releases/download/v0.5.0/goml-darwin-amd64"
-  sha256 "b97552a980b8ca98587d166895e7e4ed28ed74c0ad7dea617fc005e1e15ecd34"
-  version "v0.5.0"
+  url "https://github.com/JulzDiverse/goml/releases/download/v0.6.0/goml-darwin-amd64"
+  sha256 "1daeab4699ecbff2a2aa18082c812d4c4bff30e94aa83a7271d259ab3d177382"
+  version "v0.6.0"
   
   def install
     FileUtils.mv("goml-darwin-amd64", "goml")
